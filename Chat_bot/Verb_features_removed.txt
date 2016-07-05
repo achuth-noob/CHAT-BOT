@@ -1,0 +1,1090 @@
+Agent 
+Asset 
+Attribute 
+Beneficiary 
+Cause 
+Co-Agent 
+Co-Patient 
+Co-Theme 
+Destination 
+Experiencer 
+Extent 
+Goal 
+Initial_Location 
+Instrument 
+Location 
+Material 
+Patient 
+Pivot 
+Predicate 
+Product 
+Recipient 
+Reflexive 
+Result 
+Source 
+Stimulus 
+Theme 
+Time 
+Topic 
+Trajectory 
+Value 
+abstract 
+animal 
+animate 
+body_part 
+comestible 
+communication 
+concrete 
+currency 
+dest 
+dest_conf 
+dest_dir 
+dir 
+elongated 
+force 
+garment 
+human 
+int_control 
+loc 
+location 
+machine 
+nonrigid 
+organization 
+path 
+plural 
+pointy 
+refl 
+region 
+scalar 
+solid 
+sound 
+spatial 
+src 
+state 
+substance 
+time 
+vehicle 
+ac_ing 
+ac_to_inf 
+acc_ing 
+adv_loc 
+be_sc_ing 
+body_part 
+definite 
+for_comp 
+genitive 
+how_extract 
+np_ing 
+np_omit_ing 
+np_p_ing 
+np_ppart 
+np_to_inf 
+np_tobe 
+oc_bare_inf 
+oc_ing 
+oc_to_inf 
+plural 
+pos_ing 
+poss_ing 
+possing 
+quotation 
+refl 
+rs_to_inf 
+sc_ing 
+sc_to_inf 
+sentential 
+small_clause 
+tensed_that 
+that_comp 
+to_be 
+to_inf_rs 
+vc_to_inf 
+wh_comp 
+wh_inf 
+what_extract 
+what_inf 
+wheth_inf 
+Adv 
+Pred 
+Prep 
+about 
+abstain 
+adjust 
+admit 
+adopt 
+agree 
+alive 
+allow 
+amount_changed 
+apart 
+appear 
+apply_heat 
+apply_material 
+approve 
+assess 
+attached 
+attempt 
+avoid 
+base 
+begin 
+believe 
+benefit 
+body_motion 
+body_process 
+body_reflex 
+calculate 
+capacity 
+cause 
+change_value 
+characterize 
+command 
+concentrate 
+conclude 
+confined 
+conflict 
+confront 
+consider 
+conspire 
+contact 
+continue 
+convert 
+cooked 
+cooperate 
+cope 
+correlate 
+cost 
+covered 
+created_image 
+declare 
+dedicate 
+defend 
+degradation_material_integrity 
+delay 
+depend 
+describe 
+designated 
+desire 
+destroyed 
+different 
+direction 
+disappear 
+discomfort 
+discover 
+emit 
+emotional_state 
+end 
+enforce 
+ensure 
+equals 
+exceed 
+exert_force 
+exist 
+experience 
+express 
+filled_with 
+financial_relationship 
+flinch 
+forbid 
+force 
+free 
+future_possession 
+give_birth 
+group 
+harmed 
+has_possession 
+help 
+hold 
+in 
+in_reaction_to 
+indicate 
+involuntary 
+involve 
+license 
+limit 
+linger 
+location 
+made_of 
+manner 
+masquerade 
+meets 
+mingled 
+motion 
+necessitate 
+neglect 
+nonagentive_cause 
+occur 
+path 
+perceive 
+perform 
+physical_form 
+position 
+promote 
+property 
+relate 
+renege 
+risk 
+rotational_motion 
+rush 
+search 
+seem 
+sleep 
+social_interaction 
+spend 
+state 
+subjugated 
+successful_in 
+suffocate 
+supplicate 
+suspect 
+take_care_of 
+take_in 
+together 
+transfer 
+transfer_info 
+understand 
+urge 
+use 
+value 
+via 
+visible 
+wear 
+weather 
+yield 
+NP V NP
+Basic Transitive 
+Basic Transitive; Body-part Object 
+Basic Transitive; Causative 
+Basic Transitive; Topic Object 
+Basic Transitive; dropped Instrument 
+Basic Transitive; with accompanied motion 
+Basic Transitive; without accompanied motion 
+Locative Preposition Drop 
+Locatum Subject Alternation 
+NP 
+NP-PP; Body Part Object 
+NP-PRED-RS 
+NP; Induced Action with accompanied motion 
+NP; Induced Action without accompanied motion 
+NP; Plural object 
+PP; Theme-PP 
+Reflexive of Appearance 
+Simple Reciprocal Transitive 
+Transitive 
+Transitive; Body-part Object 
+Transitive; Body-part or reflexive Object 
+Transitive; Cognate Object 
+Transitive; Reaction Object 
+Transitive; accompanied motion 
+Transitive; affected Patient, no Co-Patient 
+Transitive; dropped Theme 
+Transitive; ellided Topic 
+Transitive; understood Patient2 
+Transitive; without Destination 
+Unintentional Interpretation of ObjectBody_part Object 
+Unintentional Interpretation of ObjectReflexive Object 
+Unspecified Reflexive ObjectReflexive variant 
+With Preposition Drop 
+With Preposition Drop Alternation 
+NP V
+Basic Intransitive 
+Basic Intransitive; inchoative 
+Intransitive 
+Intransitive; Plural Subject 
+Simple Reciprocal Intransitive 
+Understood Body-Part Object 
+Understood Reciprocal Object 
+Unspecified Object 
+NP V S_ING 
+ING-AC 
+ING-NP-OMIT 
+ING-SC 
+ING-SC/BE-ING 
+ING-SC/BE-ING-SC 
+NP-ING 
+NP-ING-OC 
+P-ING-AC; about-PP 
+P-ING-AC; with-PP 
+P-ING-SC; to-PP 
+POSSING 
+NP V that S 
+S 
+S-SUBJUNCT 
+THAT-S 
+NP V PP.location 
+NP-PP; Location-PP 
+PP; Location-PP 
+PP; against-PP 
+PP; locative-PP 
+PP; over-PP 
+PP; path-PP 
+NP V PP.theme 
+NP-PP; locative-PP 
+NP-PP; to-PP 
+P-ING-SC; with-PP 
+PP; Theme-PP 
+PP; about-PP 
+PP; after-PP 
+PP; for-PP 
+PP; in-PP 
+PP; of-PP 
+PP; on-PP 
+PP; over-PP 
+PP; through-PP 
+PP; with-PP 
+NP V NP PP.instrument 
+NP-PP; Instrument-PP 
+NP-PP; Instrument-PP 
+NP-PP; through-PP 
+NP-PP; with-PP 
+NP V NP ADJ
+ADJP; Resultative 
+NP-ADJP-PRED 
+NP-ADJP; Resultative 
+NP-PP; as-PP 
+NP-VEN-NP-OMIT 
+NP V NP PP.destination 
+NP-PP; Destination-PP 
+NP-PP; Goal-PP 
+NP-PP; between-PP 
+NP-PP; locative-PP 
+NP-PP; path-PP 
+NP V NP PP.location 
+NP-PP; Body-part-PP 
+NP-PP; Induced Action with accompanied motion, path-PP 
+NP-PP; Induced Action without accompanied motion, path-PP 
+NP-PP; Location-PP 
+NP-PP; accompanied motion, path-PP 
+NP-PP; in-PP 
+NP-PP; locative-PP 
+NP-PP; path-PP 
+NP V NP PP.result 
+NP-PP; Result-PP 
+NP-PP; as-PP 
+NP-PP; into-PP 
+NP V NP S_ING 
+NP-ING-SC 
+NP-P-ING-AC; about-PP 
+NP-P-ING-AC; through-P 
+NP-P-ING-AC; with-PP 
+NP-P-ING-OC; as-PP 
+NP-P-ING-OC; into-PP 
+NP-P-ING-OC; of-PP 
+NP-P-ING-OC; to-PP 
+NP-P-ING-OC; with-PP 
+NP-P-ING-SC; on-PP 
+NP-P-ING-SC; to-PP 
+NP-TO-INF-OC 
+POSSING 
+NP V PP.stimulus 
+PP; Stimulus-PP 
+PP; Theme-PP 
+PP; with-PP 
+NP V S_INF 
+TO-INF-AC 
+TO-INF-RS 
+TO-INF-SC 
+TO-INF-SC; with-PP 
+TO-INF; N-SC 
+TO_INF; N-SC 
+NP V NP PP.recipient 
+NP-PP; Recipient-PP 
+NP-PP; among-PP 
+NP-PP; to-PP 
+NP V NP PP.theme 
+NP-PP; Theme-PP 
+NP-PP; for-PP 
+NP-PP; in-PP 
+NP-PP; of-PP 
+NP-PP; out_of-PP 
+NP-PP; with-PP 
+NP V NP.theme 
+Basic Transitive; Theme Object 
+NP; Causative variant 
+NP; Theme Object 
+Transitive; Causative 
+Transitive; Causative variant 
+Transitive; Substance Object 
+Transitive; Theme Object 
+NP V NP PP.source 
+NP-PP; Location-PP 
+NP-PP; Source-PP 
+NP-PP; for/on Source 
+NP-PP; from-PP 
+NP-PP; on-PP 
+NP V what S 
+WHAT-S 
+NP V NP PP.attribute 
+NP-P-ING; as-PP 
+NP-PP-PRED; for-PP 
+NP-PP; Attribute-PP 
+NP-PP; Cause-PP 
+NP-PP; Possessor Object, Attribute-PP 
+NP-PP; as-PP 
+NP-PP; in-PP 
+NP-PP; of-PP 
+NP V how S 
+HOW-S 
+NP V PP.theme S_ING 
+P-ING-SC; at-PP 
+P-ING-SC; from-PP 
+P-ING-SC; in-PP 
+P-ING-SC; on-PP 
+P-NP-ING; about-PP 
+P-POSSING; about-PP 
+P-POSSING; on-PP 
+POSSING; of-PP 
+NP V PP.topic 
+PP; Simple Reciprocal Subject, Topic-PP 
+PP; Topic-PP 
+PP; about-PP 
+PP; against/about-PP 
+PP; for-PP 
+PP; of-PP 
+PP; on-PP 
+NP V how S_INF 
+HOW-TO-INF 
+NP.instrument V NP 
+Instrument Subject Alternation 
+Intransitive; Instrument Subject 
+NP V ADV-Middle 
+Middle Construction 
+NP V NP NP 
+Dative 
+Ditransitive 
+NP-NP 
+NP-NP-PRED 
+NP V NP PP.beneficiary 
+NP-PP; Beneficiary Object 
+NP-PP; Beneficiary-PP 
+NP-PP; for-PP 
+NP V NP to be NP 
+Infinitival Copular Clause 
+NP-TOBE 
+NP V NP PP.co-patient 
+NP-PP; Source-PP 
+NP-PP; from-PP 
+NP-PP; into/to/with-PP 
+NP-PP; locative-PP 
+NP-PP; to-PP 
+NP-PP; with-PP 
+NP V NP PP.initial_location 
+NP-PP; Initial_Location-PP 
+NP-PP; path-PP 
+PP; initial_location-PP 
+NP V NP-Dative NP 
+Dative 
+Dative; always without accompanied motion 
+NP V PP.recipient 
+PP; Recipient-PP 
+PP; for-PP 
+PP; to-PP 
+NP V what S_INF 
+WHAT-TO-INF 
+PP.location V NP 
+Locative Inversion 
+NP V NP ADJP 
+NP-ADJP; Resultative 
+NP V NP PP.initial_location PP.destination 
+NP-PP-PP; Initial_Location-PP Goal-PP 
+NP-PP-PP; Initial_Location-PP path-PP 
+NP-PP; path-PP 
+NP V PP.destination 
+NP-PP; to-PP 
+PP; Destination-PP 
+PP; destination-PP 
+PP; locative-PP 
+PP; path-PP 
+NP V PP.recipient that S 
+PP-S; Recipient-PP 
+PP-THAT-S-SUBJUNCT; to-PP 
+PP-THAT-S; to-PP 
+NP V ADVP-Middle 
+Middle Construction 
+NP V NP PP.goal 
+NP-PP; Goal-PP 
+NP-PP; as-PP 
+NP-PP; for-PP 
+NP-PP; in-PP 
+NP-PP; on-PP 
+NP-PP; to-PP 
+NP V NP PP.topic 
+NP-PP; Topic-PP 
+NP-PP; about-PP 
+NP-PP; against/about-PP 
+NP-PP; for-PP 
+NP-PP; of-PP 
+NP V NP S_INF 
+NP-TO-INF 
+NP-TO-INF-OC 
+NP-TO-INF-VC 
+NP V PP
+Conative 
+PP 
+Passive 
+Simple Reciprocal Intransitive 
+NP V PP.source 
+PP; Source-PP 
+PP; Topic-PP 
+PP; from-PP 
+PP; of-PP 
+NP V NP ADVP 
+NP-ADVP-PRED; here/there 
+NP-ADVP-PRED; here/there/away 
+NP V NP PP.result PP.instrument 
+NP-PP-PP; Result-PP, Instrument-PP 
+NP V NP together 
+Together Reciprocal Alternation Transitive 
+NP V PP.co-agent 
+NP-PP; to-PP 
+PP; to-PP 
+PP; with-PP 
+NP v 
+Basic Intransitive 
+NP.theme V 
+Basic Intransitive; inchoative 
+Intransitive; Inchoative 
+There V NP PP 
+NP-PP; Expletive-there Subject 
+There-insertion 
+NP V NP PP.co-theme 
+NP-PP; against-PP 
+NP-PP; by-PP 
+NP-PP; for-PP 
+NP-PP; from-PP 
+NP-PP; over-PP 
+NP-PP; with-PP 
+NP V NP.beneficiary NP 
+Benefactive Alternation; double object 
+NP-NP; Beneficiary Object 
+NP V NP.recipient 
+Basic Transitive; Recipient Object 
+Transitive; Recipient Object 
+Transitive; Recipient Object, ellided Topic 
+NP V PP.co-patient 
+PP; Source-PP 
+PP; from-PP 
+PP; locative-PP 
+PP; with-PP 
+NP V PP.recipient how S 
+PP-HOW-S; of-PP 
+PP-HOW-S; to-PP 
+NP V whether/if S 
+WH-S 
+NP V NP PP.destination PP.initial_location 
+NP-PP-PP; Goal-PP Initial_Location-PP 
+NP V NP.location 
+Basic Transitive; Location Object 
+Locative Preposition Drop 
+Transitive; Causative variant 
+Transitive; Location Object
+NP V PP.attribute
+PP-PRED-RSin-PP 
+PP; as-PP 
+PP; in-PP 
+PP; like-PP 
+NP V PP.patient 
+PP; Patient-PP 
+PP; with/into/to-PP 
+NP V PP.recipient how S_INF 
+PP-HOW-TO-INF; Recipient-PP 
+PP-HOW-TO-INF; of-PP 
+PP-HOW-TO-INF; to-PP 
+NP V PP.result 
+PP; Result-PP 
+PP; w/ endstate 
+NP V for NP S_INF 
+FOR-TO-INF 
+NP.location V PP.theme 
+PP; Location Subject, with-PP 
+NP.patient V 
+Intransitive; Inchoative 
+NP V ADVP-Middle PP 
+Middle Construction 
+NP V NP PP 
+NP-PP 
+NP-PP; to-PP 
+Simple Reciprocal Alternation Transitive; prepositional variant 
+Transitive; Body-part or reflexive Object 
+NP V NP to be ADJ 
+Infinitival Copular Clause 
+NP-TOBE 
+NP V NP.destination 
+Transitive; Destination Object 
+NP V NP.patient 
+Basic Transitive; Causative 
+NP V PP PP 
+Conative 
+NP V PP-Conative 
+Conative 
+NP V PP.co-agent PP.theme 
+PP-PP; with-PP about-PP 
+PP-PP; with-PP in-PP 
+PP-PP; with-PP on-PP 
+NP V PP.co-agent PP.topic 
+PP-PP; to-PP Topic-PP 
+PP-PP; with-PP Topic-PP 
+PP-PP; with-PP about-PP 
+NP V PP.co-theme 
+PP; for/into PP 
+PP; from/with-PP 
+PP; to-PP 
+PP; with/to-PP 
+NP V PP.experiencer 
+PP; Experiencer-PP 
+PP; at-PP 
+PP; on-PP 
+PP; to-PP 
+NP V PP.recipient S-Quote 
+PP-QUOT; Recipient-PP 
+PP-S; to-PP 
+NP V S-Quote 
+QUOT 
+NP V together 
+Together Reciprocal Alternation Intransitive 
+There V NP 
+NP-PP; Expletive-there Subject 
+NP; Expletive-there Subject 
+There V PP NP 
+PP-NP; Expletive-there Subject 
+NP V ADJ 
+ADJ 
+ADJP-PRED-RS 
+ADJP; Resultative 
+NP V NP ADJP PP.instrument 
+NP-ADJP-PP; Resultative, Instrument-PP 
+NP V NP ADV 
+NP-ADVP 
+NP-ADVP-PRED 
+NP V NP PP.asset 
+NP-PP; Asset Subject 
+NP-PP; Asset-PP 
+NP V NP PP.value 
+NP-PP; at-PP 
+NP V NP that S 
+NP-S 
+S-SUBJUNCT 
+NP V NP.material PP.product 
+Material/Product Alternation Transitive; Material Object 
+NP-PP; Causative variant, Product-PP 
+NP V PP.beneficiary 
+PP; Beneficiary-PP 
+PP; against-PP 
+PP; for-PP 
+NP V PP.instrument 
+PP; Instrument-PP 
+PP; with-PP 
+NP V PP.location PP.theme 
+PP-PP; Location-PP Theme-PP 
+PP; Location-PP Theme-PP 
+NP V PP.recipient S_INF 
+PP-TO-INF-AC; Recipient-PP 
+PP-TO-INF-OC; Recipient-PP 
+NP V PP.recipient what S 
+PP-WHAT-S; to-PP 
+NP V PP.theme what S 
+P-WHAT-S; about-PP 
+P-WHAT-S; on-PP 
+NP V PP.topic PP.co-agent 
+PP-PP; Topic-PP to-PP 
+PP-PP; Topic-PP with-PP 
+NP V whether S_INF 
+WH-TO-INF 
+NP.asset V NP 
+NP; Asset Subject 
+NP.instrument V ADVP 
+Characteristic Property of Instrument 
+It V that S 
+SEEM-S 
+NP V ADV 
+ADVP-PRED; here/there 
+NP V ADVP 
+ADVPhere/there 
+NP V NP ADJP-Result 
+NP-ADJP; Resultative 
+NP V NP NP PP.asset 
+NP-NP-PP; Asset-PP 
+NP-PP; Asset-PP 
+NP V NP S 
+NP-S 
+NP V NP how S 
+NP-HOW-S 
+NP V NP up 
+NP-PART; up 
+NP V NP what S 
+NP-WHAT-S 
+NP V NP what S_INF 
+NP-WHAT-TO-INF 
+NP V NP.destination PP.theme 
+NP-PP; Destination Object, Theme-PP 
+NP-PP; Location Object, with-PP 
+NP V NP.initial_location 
+Transitive; Initial_Location Object 
+Transitive; basically, locative preposition drop of "from" 
+NP V NP.location PP.theme 
+NP-PP; Location Object, Theme-PP 
+NP-PP; Location Subject, of-PP 
+NP V NP.product PP.material 
+Material/Product Alternation Transitive; Product Object 
+NP-PP; Causative variant, Material-PP 
+NP V NP.recipient S_INF 
+NP-TO-INF-AC; Recipient Object 
+NP-TO-INF-OC; Recipient Object 
+NP V NP.recipient that S 
+NP-S; Recipient Object 
+NP V NP.source 
+NP; Causative variant 
+Transitive; Source Object 
+NP V NP.theme 
+Transitive; Theme Object 
+NP V NP.theme PP.destination 
+NP-PP; Substance Object Destination-PP 
+NP-PP; Theme Object, on-PP 
+NP V NP.topic 
+Basic Transitive; Topic Object 
+NP V NP.value 
+Transitive; Attribute Object 
+NP V PP ADV-Middle 
+Middle Construction 
+NP V PP.destination NP 
+PP-NP; Goal-PP 
+PP-NP; upon/on-PP 
+NP V PP.initial_location PP.destination 
+PP-PP; Initial_Location-PP path-PP 
+PP; path-PP 
+NP V PP.recipient PP.topic 
+PP-PP; Recipient-PP Topic-PP 
+PP; to-PP 
+NP V PP.recipient what S_INF 
+PP-WHAT-TO-INF; to-PP 
+NP V PP.source S_ING 
+P-ING-SC; from-PP 
+P-ING-SC; of-P 
+NP V PP.stimulus what S 
+P-WHAT-S; about-PP 
+P-WHAT-TO-INF; with-P 
+NP V PP.theme S 
+P-POSSING; about-PP 
+PP; from-PP 
+NP V PP.theme what S_INF 
+P-WHAT-TO-INF; about-PP 
+P-WHAT-TO-INF; on-PP 
+NP V PP.time 
+PP; Time-PP 
+NP V PP.topic S_ING 
+P-POSSING; about-PP 
+P-POSSING; on-PP 
+NP V PP.topic what S_INF 
+P-WHAT-TO-INF; about-PP 
+NP V PP.topic whether S 
+P-WH-S; about-PP 
+NP V PP.topic whether S_INF 
+P-WH-TO-INF; about-PP 
+NP V PP.trajectory 
+PP 
+PP; trajectory-PP 
+NP V together ADV-Middle 
+Middle Construction 
+NP.attribute V 
+Intransitive; Attribute Subject 
+NP.attribute V NP.extent 
+NP; Attribute Subject, Extent Object 
+NP.attribute V PP.extent 
+PP; Attribute Subject, Extent-PP 
+NP.location V 
+Intransitive; Inchoative 
+Intransitive; Location subject 
+NP.location V NP 
+Location Subject Alternation 
+Locative Inversion 
+NP.material V PP.product 
+Material/Product Alternation Intransitive; Material Subject 
+PP; Inchoative variant, Product-PP 
+NP.theme V NP 
+Transitive; Theme Subject 
+It V 
+Intransitive; Expletive Subject 
+It V NP.theme 
+NP; Expletive Subject, Theme Object 
+It V PP.experiencer that S 
+SEEM-TO-NP-S; to-PP 
+It V PP.theme 
+PP; Expletive Subject, Theme-PP 
+NP NP V ADVP-Middle together 
+Middle Construction 
+NP NP V together 
+Together Reciprocal Alternation Intransitive 
+NP V ADJ PP.experiencer 
+PP; Experiencer-PP 
+NP V ADJ-Middle 
+
+NP V ADV-Middle PP 
+Middle Construction 
+NP V ADV-Middle PP.location 
+Middle Construction 
+NP V ADV-Middle together 
+Middle Construction 
+NP V NP ADJ PP.instrument 
+NP-ADJP-PP; Resultative, Instrument-PP 
+NP V NP ADJP PP.result 
+NP-ADJP; Result-PP 
+NP V NP NP PP.theme 
+NP-NP-PP; for-PP 
+NP V NP NP together 
+Together Reciprocal Alternation Transitive 
+NP V NP NP.asset 
+NP-PP; Asset Object 
+NP V NP P.asset 
+NP-PP; Asset-PP 
+NP V NP PP PP.instrument 
+NP-PP-PP; Body-part-PP Instrument-PP 
+NP V NP PP.attribute PP.extent 
+NP-PP-PP; in-PP; by-PP 
+NP V NP PP.co-agent 
+NP-PP; with-PP 
+NP V NP PP.destination-Conative 
+Conative 
+NP V NP PP.destinations 
+NP-PP; Goal-PP 
+NP V NP PP.material 
+NP-PP; Material-PP 
+NP V NP PP.material PP.asset 
+NP-PP-PP; Material-PP, Asset-PP 
+NP V NP PP.material PP.beneficiary 
+NP-PP-PP; Source-PP Beneficiary-PP 
+NP V NP PP.patient 
+NP-PP; through-PP 
+NP V NP PP.predicate 
+NP-PP; for-PP 
+NP V NP PP.product PP.beneficiary 
+NP-PP-PP; Product-PP Beneficiary-PP 
+NP V NP PP.recipient PP.asset 
+NP-PP-PP; Recipient-PP Asset-PP 
+NP V NP PP.recipient PP.theme 
+NP-PP-PP; Recipient-PP Theme-PP 
+NP V NP PP.source NP.asset 
+NP-PP-PP; Source-PP, Asset-PP 
+NP V NP PP.source PP.beneficiary 
+NP-PP-PP; Source-PP Beneficiary-PP 
+NP V NP PP.source PP.instrument 
+NP-PP-PP; Instrument-PP Location-PP 
+NP V NP PP.source S 
+NP-P-NP-ING; on-PP 
+NP V NP PP.source S_ING 
+NP-P-POSSING; on-PP 
+NP V NP PP.source whether S 
+NP-P-WH-S; on-PP 
+NP V NP PP.stimulus 
+NP-PP; to-PP 
+NP V NP PP.theme S_ING 
+NP-P-ING; from-PP 
+NP V NP PP.topic what S 
+P-WHAT-S; about-PP 
+NP V NP S-Quote 
+NP-QUOT; Recipient Object 
+NP V NP apart 
+Apart Reciprocal Alternation Transitive 
+NP V NP down 
+NP-PART; down 
+NP V NP how S_INF 
+NP-HOW-TO-INF; Recipient Object 
+NP V NP whether S 
+NP-WH-S 
+NP V NP whether S_INF 
+NP-WH-TO-INF 
+NP V NP-ATTR-POS 
+Attribute Object Possessor-Attribute Factoring Alternation 
+NP V NP-Fulfilling PP 
+Fulfilling Alternation 
+NP V NP-Fulfilling PP.theme 
+Fulfilling Alternation 
+NP V NP-PRO-ARB 
+PRO-Arb Object Alternation 
+NP V NP-dative NP 
+Dative 
+NP V NP.attribute 
+NP; Attribute Object 
+NP V NP.beneficiary NP PP 
+NP-NP; Object Beneficiary 
+NP V NP.experiencer 
+Transitive; Experiencer Object 
+NP V NP.material 
+Transitive; Causative variant, Material Object 
+NP V NP.patient PP.material PP.result 
+NP-PP-PP; Causative variant, Material-PP Result-PP 
+NP V NP.patient PP.result 
+Total Transformation Alternation Transitive 
+NP V NP.recipient S 
+NP-S; Recipient Object 
+NP V NP.recipient S-Quote 
+NP-QUOT; Recipient Object 
+NP V NP.recipient how S_INF 
+NP-HOW-TO-INF; Recipient Object 
+NP V NP.recipient when S_INF 
+NP-WHEN-TO-INF; Recipient Object 
+NP V NP.stimulus 
+NP-PP; Attribute Object, Possessor-PP 
+NP V NP.theme PP 
+NP; Causative variant 
+NP V NP.theme PP.instrument 
+NP-PP; Causative variant 
+NP V NP: 
+Transitive 
+NP V PP.attribute S_ING 
+NP-P-ING-OC; of-PP 
+NP V PP.co-agent PP.goal 
+PP-PP; with-PP on-PP 
+NP V PP.co-agent PP.theme S_ING 
+P-ING-SC; with-PP at-PP 
+NP V PP.co-agent PP.theme what S 
+PP-P-WHAT-S; with-PP about-PP 
+NP V PP.co-agent PP.theme what S_INF 
+PP-P-WHAT-TO-INF; with-PP about-PP 
+NP V PP.co-agent PP.theme whether S 
+PP-P-WH-S; with-PP about-PP 
+NP V PP.co-agent PP.theme whether S_INF 
+PP-P-WH-TO-INF; with-PP about-PP 
+NP V PP.co-agent PP.topic what S 
+PP-P-WHAT-S; with-PP about-PP 
+NP V PP.co-agent PP.topic what S_INF 
+PP-P-WHAT-TO-INF; with-PP about-PP 
+NP V PP.co-agent PP.topic whether S_INF 
+PP-P-WH-TO-INF; with-PP about-PP 
+NP V PP.co-agent PP.topic whether/if S 
+PP-P-WH-S; with-PP about-PP 
+NP V PP.co-agent how S 
+PP-HOW-S; with-PP 
+NP V PP.co-agent how S_INF 
+PP-HOW-TO-INF; with-PP 
+NP V PP.extent 
+PP; Extent-PP 
+NP V PP.goal 
+PP; to-PP 
+NP V PP.goal what S_INF 
+P-WHAT-TO-INF; on-PP 
+NP V PP.initial_loc 
+PP; initial_loc-PP 
+NP V PP.initial_loc PP.destination 
+PP-PP; source-PP destination-PP 
+NP V PP.initial_location 
+PP; path-PP 
+NP V PP.material PP.result 
+PP-PP; w/ beginning state w/ end state 
+NP V PP.recipient NP 
+PP-NP; Recipient-PP 
+NP V PP.recipient PP.topic what S 
+PP-P-WHAT-S; of-PP about-PP 
+NP V PP.recipient PP.topic what S_INF 
+PP-P-WHAT-TO-INF; of-PP about-PP 
+NP V PP.recipient PP.topic whether S_INF 
+PP-P-WH-TO-INF; of-PP about-PP 
+NP V PP.recipient when S_INF 
+PP-WHEN-TO-INF; Recipient-PP 
+NP V PP.recipient whether S 
+PP-P-WH-S; of-PP about-PP 
+NP V PP.recipient whether/if S 
+PP-WH-S; to-PP 
+NP V PP.result NP 
+PP-NP; Result-PP 
+NP V PP.result PP.instrument 
+PP-PP; Result-PP, Instrument-PP 
+NP V PP.result PP.material 
+PP-PP; w/ end state w/ beginning state 
+NP V PP.source PP.goal 
+PP-PP; from-PP to-PP 
+NP V PP.source PP.theme what S 
+PP-P-WHAT-S; from-PP about-PP 
+NP V PP.source PP.theme what S_INF 
+PP-P-WHAT-TO-INF; from-PP about-PP 
+NP V PP.source PP.theme whether S_INF 
+PP-P-WH-TO-INF; from-PP about-PP 
+NP V PP.source PP.theme whether/if S 
+PP-P-WH-S; from-PP about-PP 
+NP V PP.source how S 
+PP-HOW-S; from-PP 
+NP V PP.source how S_INF 
+PP-HOW-TO-INF; from-PP 
+NP V PP.stimulus S_ING 
+P-POSSING; with-P 
+NP V PP.stimulus how/whether S 
+P-WH-S; about-PP 
+NP V PP.theme NP S_ING 
+P-NP-ING; on-PP 
+NP V PP.theme NP.location 
+PP-PP; Theme-PP Location-PP 
+NP V PP.theme PP.location 
+PP-PP; Theme-PP Location-PP 
+NP V PP.theme PP.source 
+PP-PP; about-PP from-PP 
+NP V PP.theme S_INF 
+P-NP-TO-INF; on-PP 
+NP V PP.theme whether S_INF 
+P-WH-TO-INF; about-PP 
+NP V PP.theme whether/if S 
+P-WH-S; about-PP 
+NP V PP.topic NP S_ING 
+P-POSSING; about-PP 
+NP V PP.topic PP.recipient 
+PP-PP; Topic-PP Recipient-PP 
+NP V PP.topic what S 
+P-WHAT-S; about-PP 
+NP V PP.value 
+PP; at-PP 
+NP V S 
+NP-INF-OC 
+NP V apart 
+Apart Reciprocal Alternation Intransitive 
+NP V down NP 
+PART-NP; down 
+NP V out 
+PARTout 
+NP V that S PP.theme 
+PP-THAT-S; from-PP 
+NP V up NP 
+PART-NP; up 
+NP V when S_INF 
+WHEN-TO-INF 
+NP V whether S 
+WH-S 
+NP V whether/if S_INF 
+WH-TO-INF 
+NP V why S 
+WH-S 
+NP.agent V 
+Basic Intransitive; inchoative 
+NP.agent V NP 
+Basic Transitive; Causative 
+NP.asset V NP NP 
+NP-NP; Asset Subject 
+NP.asset V NP PP 
+NP-NP-PP; Asset Subject 
+NP.asset V PP 
+NP-PP; Asset Subject 
+NP.cause V NP 
+NP; Attribute Subject 
+NP.location V NP.theme 
+PP; Location Subject, with-PP 
+NP.location V PP.agent 
+PP; Location Subject, with-PP 
+NP.material V NP 
+Raw Material Subject 
+NP.patient V PP.attribute 
+PP; Possessor Subject, Attribute-PP 
+NP.patient V PP.material PP.result 
+PP-PP; Inchoative variant, Material-PP Result-PP 
+NP.patient V PP.result 
+Total Transformation Alternation Intransitive 
+NP.product V PP.material 
+Material/Product Alternation Intransitive; Product Subject 
+NP.theme V PP.location 
+PP; inchoative, locative-PP 
+NP.theme V PP.source 
+PP; Substance Subject, Source-PP 
+PP.location V PP.theme 
+PP; Location Subject, with-PP 
+PP.location there V NP 
+There-insertion 
+Passive 
+Participle form 
+That S.stimulus V
+There V NP PP.location 
+Locative Inversion
